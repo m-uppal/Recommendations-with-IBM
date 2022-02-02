@@ -13,9 +13,13 @@ Additionally, this project makes article recommendations to users.
 The projects includes:
 
 1 - Exploratory Data Analysis
+
 2 - Rank Based Recommendations
+
 3-  User-user based collaborative Filtering
+
 4 - Content Based Recommendations
+
 5 - Matrix Factorization
 
 # Data
